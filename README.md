@@ -13,7 +13,7 @@ poor in breadth of expressive modalities.
 
 In my spare time, I like to occasionally write [short stories and poems](https://www.luciaillanes.de/EN/etc/), draw [comics](https://www.luciaillanes.de/EN/etc/)
 depicting the futile absurdities of the human condition and existence in general, translate [Arabic poetry](https://www.luciaillanes.de/EN/etc)
-(badly), compose gargantuan walls of text on applied transfeminine endocrinology, take long walks whilst pondering
+(badly,) compose gargantuan walls of text on applied transfeminine endocrinology, take long walks whilst pondering
 the phenomenological implications of alphabet soup, offer sacrifices to Enki and Labata Ištar, [cook](https://www.luciaillanes.de/EN/etc/),
 and impose long, drawn-out sentences upon [project README files](https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md)
 or [websites](https://www.luciaillanes.de) for reasons left unspecified.
