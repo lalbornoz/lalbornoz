@@ -11,8 +11,8 @@ expressiveness and an emphasis on aesthetic qualities in programming and enginee
 maintainable, composable, and well-documented software, preferentially eschewing abstraction and overly complicated code
 poor in breadth of expressive modalities.
 
-In my spare time, I like to occasionally write [short stories and poems](https://www.luciaillanes.de/EN/etc/), draw [comics](https://www.luciaillanes.de/EN/etc/)
-depicting the futile absurdities of the human condition and existence in general, translate [Arabic poetry](https://www.luciaillanes.de/EN/etc)
+In my spare time, I like to occasionally write [short stories and poems](https://www.luciaillanes.de/EN/stories/), draw [comics](https://www.luciaillanes.de/EN/etc/)
+depicting the futile absurdities of the human condition and existence in general, translate [Arabic poetry](https://www.luciaillanes.de/EN/arabic_poems/)
 (badly,) compose gargantuan walls of text on applied transfeminine endocrinology, take long walks whilst pondering
 the phenomenological implications of alphabet soup, offer sacrifices to Enki and Labata Ištar, [cook](https://www.luciaillanes.de/EN/etc/),
 and impose long, drawn-out sentences upon [project README files](https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md)
