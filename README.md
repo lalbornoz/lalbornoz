@@ -13,10 +13,10 @@ poor in breadth of expressive modalities.
 
 In my spare time, I like to occasionally write [short stories and poems](https://www.luciaillanes.de/stories/), draw
 [comics](https://www.luciaillanes.de/etc/) depicting the futile absurdities of the human condition and existence in general,
-translate [Arabic poetry](https://www.luciaillanes.de/arabic_poems/) (badly,) compose gargantuan walls of text on
-[experimental transfeminine endocrinology](https://www.luciaillanes.de/etc/), take long walks whilst pondering the
-phenomenological implications of alphabet soup, offer sacrifices to Enki and Labata Ištar, [cook](https://www.luciaillanes.de/etc/),
-and impose long, drawn-out sentences upon [project README files](https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md)
+translate [Arabic poetry](https://www.luciaillanes.de/arabic_poems/), compose gargantuan walls of text on [experimental
+transfeminine endocrinology](https://www.luciaillanes.de/etc/), take long walks whilst pondering the phenomenological
+implications of alphabet soup, offer sacrifices to Enki and Labata Ištar, [cook](https://www.luciaillanes.de/etc/), and
+impose long, drawn-out sentences upon [project README files](https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md)
 or [websites](https://www.luciaillanes.de) for reasons left unspecified.
 
 I have participated in and continue to participate in open source projects. Please refer to
