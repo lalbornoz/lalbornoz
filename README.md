@@ -17,7 +17,7 @@ translate [Arabic poetry](https://www.luciaillanes.de/arabic_poems/), compose ga
 transfeminine endocrinology](https://www.luciaillanes.de/etc/), take long walks whilst pondering the phenomenological
 implications of alphabet soup, offer sacrifices to Enki and Labata Ištar, [cook](https://www.luciaillanes.de/etc/), and
 impose long, drawn-out sentences upon [project README files](https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md)
-or [websites](https://www.luciaillanes.de) for reasons left unspecified.
+or [websites](https://www.luciaillanes.de).
 
 I have participated in and continue to participate in open source projects. Please refer to
 [Open source projects involvement](https://www.luciaillanes.de/projects) as well as this GitHub
