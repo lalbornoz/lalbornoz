@@ -1,4 +1,5 @@
-I'm an independent open source software developer from & presently residing in Hamburg, Germany.
+I'm an ~~independent open source software developer~~ ~~tortured artist~~ mostly eukaryotic multicellular form of life
+from & presently residing in Hamburg, Germany.
 
 Having grown up in a multilingual and -cultural environment, I've cultivated an avid passion for my native Spanish
 (Chilean/Andalusian dialect) and German (Northern Germany/Hamburg dialect), as well as English (British English,) at
