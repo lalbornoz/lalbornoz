@@ -15,8 +15,8 @@ poor in breadth of expressive modalities.
 In my spare time, I like to occasionally write [short stories and poems](https://www.luciaillanes.de/stories), draw
 [digital art](https://www.luciaillanes.de/visual_sundries) depicting the futile absurdities of the human condition and
 existence in general, translate [Arabic poetry](https://www.luciaillanes.de/arabic_poems), compose gargantuan walls of
-text on [experimental transfeminine endocrinology](https://www.luciaillanes.de/endocrinology), take long walks whilst pondering
-the phenomenological implications of alphabet soup, [watch films and series](https://www.luciaillanes.de/movieslist),
+text on [experimental transfeminine endocrinology](https://www.luciaillanes.de/endocrinology), take long walks whilst
+engaging in phenomenological archaeology, [watch films and series](https://www.luciaillanes.de/movieslist),
 [cook](https://www.luciaillanes.de/etc), and impose long, drawn-out sentences upon
 [project README files](https://github.com/lalbornoz/PuTTie/blob/master/PuTTie/README.md)
 or [websites](https://www.luciaillanes.de).
